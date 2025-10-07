@@ -1,0 +1,34 @@
+[Assisted Install]
+
+Security Check=1
+
+License Accepted=0
+
+Deployment Options=0
+
+FileMaker Server User=0
+
+Load Previous Configuration=0
+
+Admin Console User=
+
+Admin Console Password=
+
+Admin Console PIN=
+
+License Certificate Path=
+
+Filter Databases=1
+
+Remove Desktop Shortcut=0
+
+Remove Sample Database=0
+
+Use HTTPS Tunneling=0
+
+Swap File Size=
+
+Swappiness=10
+
+Preserve Firewall=0
+

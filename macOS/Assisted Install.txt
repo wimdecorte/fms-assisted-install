@@ -1,0 +1,33 @@
+
+[Assisted Install]
+
+
+License Accepted=0
+
+Organization=
+
+Deployment Options=0
+
+FileMaker Server User=0
+
+Admin Console User=
+
+Admin Console Password=
+
+Admin Console PIN=
+
+Launch Deployment Assistant=1
+
+License Certificate Path=
+
+Skip Dialogs=0
+
+Remove Sample Database=0
+
+Remove Desktop Shortcut=0
+
+Load Previous Configuration=0
+
+Filter Databases=1
+
+Use HTTPS Tunneling=0
