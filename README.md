@@ -35,6 +35,12 @@ These options are available across macOS, Ubuntu, and Windows:
 
 ### Platform-Specific Options
 
+#### Windows Only
+
+| Option | Default Value | Description | Version Introduced |
+|--------|---------------|-------------|-------------------|
+| `Disable 8dot3 Name Creation` | 1 | Set to 1 to disable the creation of 8.3 format file names on Windows for improved performance | FMS 26.0.1 |
+
 #### macOS and Windows Only
 
 | Option | Default Value | Description |

@@ -32,6 +32,8 @@ Filter Databases=1
 
 Use HTTPS Tunneling=0
 
+Disable 8dot3 Name Creation=1
+
 Swap File Size=
 
 Swappiness=10

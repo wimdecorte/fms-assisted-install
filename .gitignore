@@ -66,3 +66,6 @@ logs/
 # Configuration files with sensitive data
 config.ini
 settings.ini
+
+# dev
+evaluate/
