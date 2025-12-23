@@ -17,7 +17,7 @@ The Assisted Install.txt file must be placed in the correct location for each pl
 
 - **Windows**: Assisted Install.txt and Setup.exe must be in the Files folder during installation
 - **macOS**: Assisted Install.txt must be in the same folder as the FileMaker Server installer application during installation  
-- **Linux**: Assisted Install.txt must be in the same folder as the FileMaker Server DEB installer during installation
+- **Linux**: Assisted Install.txt must be in the same folder as the FileMaker Server DEB installer during installation, and the FM_ASSISTED_INSTALL variable must contain the full path to that folder.
 
 **Note**: The Assisted Install.txt file is cross-platform compatible. The same file can be used for installing on Windows, macOS, and Linux systems.
 
